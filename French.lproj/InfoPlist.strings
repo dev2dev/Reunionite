@@ -1,0 +1,10 @@
+/* 
+   InfoPlist.strings
+   CashMeetings
+
+   Created by Romain Champourlier on 30/10/10.
+   Copyright 2010 SoftRoch. All rights reserved.
+ */
+
+CFBundleName = "Reunionite";
+CFBundleDisplayName = "Réunionite";

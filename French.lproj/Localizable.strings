@@ -1,0 +1,37 @@
+/* 
+   Localization.strings
+   CashMeetings
+
+   Created by Romain Champourlier on 20/09/10.
+   Copyright 2010 SoftRoch. All rights reserved.
+ */
+
+"LocalButtonStopCountingStopTitle"		= "Mettre la réunion en pause";
+"LocalButtonStopCountingStartTitle"		= "Démarrer la réunion";
+"LocalButtonStopCountingRestartTitle"	= "Reprendre la réunion";
+
+"LocalLabelCountingText"			= "RÉUNION EN COURS...";
+"LocalLabelCountingPausedText"		= "EN PAUSE...";
+"LocalLabelCountingNotStartedText"	= "RÉUNION NON DÉMARRÉE...";
+
+"AlertTitleClearTimer"				= "Remettre à zéro la réunion ?";
+"AlertTitleClearCumulatedValues"	= "Effacer les compteurs cumulées ?";
+"LocalAlertClearTimerMessage"		= "Êtes-vous sûr de vouloir remettre à zéro la réunion en cours ?";
+"LocalAlertClearCumulationMessage"	= "Êtes-vous sûr de vouloir remettre à zéro les compteurs cumulés ?";
+"LocalAlertButtonContinue"			= "Continuer";
+"LocalAlertButtonCancel"			= "Annuler";
+
+"LocalHourLabelLong"				= "heure";
+"LocalMinuteLabelLong"				= "minute";
+"LocalSecondLabelLong"				= "seconde";
+"LocalHourLabelShort"				= "h";
+"LocalMinuteLabelShort"				= "m";
+
+"CostLabelFormatString"				= "(%u €/jour)";
+
+"Add1HourButtonTitleKey"		= "+ 1 heure";
+"Add15MinutesButtonTitleKey"	= "+ 15 minutes";
+
+"ShareTwitterTextOngoing"		= "En réunion depuis %@ et déjà %.2f € dépensés ! Réduisez le coût de vos réunions avec #Reunionite sur iPhone http://bit.ly/bFdr5o";
+"ShareTwitterTextEnded"			= "Réunion à %.2f € terminée ! Réduisez le coût de vos réunions avec #Reunionite sur iPhone http://bit.ly/bFdr5o";
+"ShareTwitterText"				= "Réunion à %.2f € terminée ! Réduisez le coût de vos réunions avec #Reunionite sur iPhone http://bit.ly/bFdr5o";

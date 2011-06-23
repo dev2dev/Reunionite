@@ -1,0 +1,16 @@
+Simple application for iPhone providing realtime and fun meeting cost calculation.
+
+Includes:
+- simple connection to social networks (Facebook, Twitter) through ShareKit,
+- AdMob,
+- custom graphics.
+
+Available on the AppStore under the name: Reunionite.
+Look demonstration video (in French) on http://softroch.free.fr
+
+Feel free to contact me if you have questions!
+
+TODO:
+- License (MIT)
+- More detailed README
+- More documentation in code (will never do it now...)
